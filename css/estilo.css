@@ -76,6 +76,13 @@ main{
     height: 1.5rem;
 }
 
+footer{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+}
 
 
 /* Dispositivos pequeños (teléfonos, 600px y menos) */
